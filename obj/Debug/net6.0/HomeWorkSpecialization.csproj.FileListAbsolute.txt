@@ -1,0 +1,15 @@
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\HomeWorkSpecialization.csproj.AssemblyReference.cache
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\HomeWorkSpecialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\HomeWorkSpecialization.AssemblyInfoInputs.cache
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\HomeWorkSpecialization.AssemblyInfo.cs
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\HomeWorkSpecialization.csproj.CoreCompileInputs.cache
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\bin\Debug\net6.0\HomeWorkSpecialization.exe
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\bin\Debug\net6.0\HomeWorkSpecialization.deps.json
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\bin\Debug\net6.0\HomeWorkSpecialization.runtimeconfig.json
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\bin\Debug\net6.0\HomeWorkSpecialization.dll
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\bin\Debug\net6.0\HomeWorkSpecialization.pdb
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\HomeWorkSpecialization.dll
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\refint\HomeWorkSpecialization.dll
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\HomeWorkSpecialization.pdb
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\HomeWorkSpecialization.genruntimeconfig.cache
+C:\Users\Tenzor\Desktop\HomeWorkSpecialization\Specialization\obj\Debug\net6.0\ref\HomeWorkSpecialization.dll
